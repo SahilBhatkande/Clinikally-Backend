@@ -1,0 +1,17 @@
+
+{
+  "name": "product-autocomplete-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "mocha tests/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0"
+  }
+}

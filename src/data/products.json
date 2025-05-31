@@ -1,0 +1,388 @@
+
+[
+    {
+      "id": 100,
+      "title": "iPhone 13 Pro",
+      "brand": "Apple",
+      "category": "Smartphones",
+      "price": 999.99
+    },
+    {
+      "id": 200,
+      "title": "Galaxy S21",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 799.99
+    },
+    {
+      "id": 300,
+      "title": "MacBook Pro",
+      "brand": "Apple",
+      "category": "Laptops",
+      "price": 1999.99
+    },
+    {
+      "id": 400,
+      "title": "Dell XPS 15",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 1499.99
+    },
+    {
+      "id": 500,
+      "title": "Sony WH-1000XM4",
+      "brand": "Sony",
+      "category": "Headphones",
+      "price": 349.99
+    },
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "brand": "Essence",
+      "category": "beauty",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "brand": "Glamour Beauty",
+      "category": "beauty",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "brand": "Velvet Touch",
+      "category": "beauty",
+      "price": 14.99
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "brand": "Chic Cosmetics",
+      "category": "beauty",
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "brand": "Nail Couture",
+      "category": "beauty",
+      "price": 8.99
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "brand": "Calvin Klein",
+      "category": "fragrances",
+      "price": 49.99
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "brand": "Chanel",
+      "category": "fragrances",
+      "price": 129.99
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "brand": "Dior",
+      "category": "fragrances",
+      "price": 89.99
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "brand": "Dolce & Gabbana",
+      "category": "fragrances",
+      "price": 69.99
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "brand": "Gucci",
+      "category": "fragrances",
+      "price": 79.99
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "price": 1899.99
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "brand": "Annibale Colombo",
+      "category": "furniture",
+      "price": 2499.99
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "brand": "Furniture Co.",
+      "category": "furniture",
+      "price": 299.99
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "brand": "Knoll",
+      "category": "furniture",
+      "price": 499.99
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "brand": "Bath Trends",
+      "category": "furniture",
+      "price": 799.99
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 1.99
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 12.99
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 8.99
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 9.99
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 4.99
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 1.49
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 10.99
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 2.99
+    },
+    {
+      "id": 24,
+      "title": "Fish Steak",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 14.99
+    },
+    {
+      "id": 25,
+      "title": "Green Bell Pepper",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 1.29
+    },
+    {
+      "id": 26,
+      "title": "Green Chili Pepper",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 0.99
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 6.99
+    },
+    {
+      "id": 28,
+      "title": "Ice Cream",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 5.49
+    },
+    {
+      "id": 29,
+      "title": "Juice",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 3.99
+    },
+    {
+      "id": 30,
+      "title": "Kiwi",
+      "brand": "Generic",
+      "category": "groceries",
+      "price": 2.49
+    },
+    {
+      "id": 501,
+      "title": "Wireless Mouse",
+      "brand": "Logitech",
+      "category": "Accessories",
+      "price": 29.99
+    },
+    {
+      "id": 502,
+      "title": "Bluetooth Keyboard",
+      "brand": "Microsoft",
+      "category": "Accessories",
+      "price": 49.99
+    },
+    {
+      "id": 503,
+      "title": "USB-C Hub",
+      "brand": "Anker",
+      "category": "Accessories",
+      "price": 39.99
+    },
+    {
+      "id": 504,
+      "title": "Smart Watch Series 7",
+      "brand": "Apple",
+      "category": "Wearables",
+      "price": 399.99
+    },
+    {
+      "id": 505,
+      "title": "Wireless Earbuds",
+      "brand": "JBL",
+      "category": "Audio",
+      "price": 89.99
+    },
+    {
+      "id": 506,
+      "title": "Gaming Monitor 27\"",
+      "brand": "ASUS",
+      "category": "Electronics",
+      "price": 299.99
+    },
+    {
+      "id": 507,
+      "title": "Portable SSD 1TB",
+      "brand": "Samsung",
+      "category": "Storage",
+      "price": 129.99
+    },
+    {
+      "id": 508,
+      "title": "Leather Jacket",
+      "brand": "Zara",
+      "category": "Clothing",
+      "price": 149.99
+    },
+    {
+      "id": 509,
+      "title": "Running Shoes",
+      "brand": "Nike",
+      "category": "Footwear",
+      "price": 99.99
+    },
+    {
+      "id": 510,
+      "title": "Coffee Maker",
+      "brand": "Nespresso",
+      "category": "Appliances",
+      "price": 199.99
+    },
+    {
+      "id": 511,
+      "title": "Desk Lamp",
+      "brand": "Ikea",
+      "category": "Home",
+      "price": 24.99
+    },
+    {
+      "id": 512,
+      "title": "Backpack",
+      "brand": "North Face",
+      "category": "Accessories",
+      "price": 79.99
+    },
+    {
+      "id": 513,
+      "title": "Smart Thermostat",
+      "brand": "Nest",
+      "category": "Smart Home",
+      "price": 129.99
+    },
+    {
+      "id": 514,
+      "title": "Electric Kettle",
+      "brand": "Philips",
+      "category": "Appliances",
+      "price": 39.99
+    },
+    {
+      "id": 515,
+      "title": "Graphic T-Shirt",
+      "brand": "H&M",
+      "category": "Clothing",
+      "price": 19.99
+    },
+    {
+      "id": 516,
+      "title": "Wireless Charger",
+      "brand": "Belkin",
+      "category": "Accessories",
+      "price": 34.99
+    },
+    {
+      "id": 517,
+      "title": "Noise-Canceling Headphones",
+      "brand": "Bose",
+      "category": "Audio",
+      "price": 299.99
+    },
+    {
+      "id": 518,
+      "title": "Smart Speaker",
+      "brand": "Amazon",
+      "category": "Smart Home",
+      "price": 49.99
+    },
+    {
+      "id": 519,
+      "title": "Fitness Tracker",
+      "brand": "Fitbit",
+      "category": "Wearables",
+      "price": 129.99
+    },
+    {
+      "id": 520,
+      "title": "Blender",
+      "brand": "Vitamix",
+      "category": "Appliances",
+      "price": 399.99
+    }
+  ]
